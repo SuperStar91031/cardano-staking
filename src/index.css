@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@400;800&display=swap");
+body {
+  margin: 0;
+  font-family: "EXO 2";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #1d114f !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.iMQGRz,
+.eMjuYh {
+  background-color: #2ee7be !important;
+  color: #000 !important;
+}
+
+.iMQGRz:hover,
+.eMjuYh:hover {
+  background-color: #2ee7be !important;
+  color: #000 !important;
+}
+.dBGBmU {
+  background-color: #1d114f !important;
+}
